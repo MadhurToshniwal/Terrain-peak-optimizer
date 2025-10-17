@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/ML-Ensemble-green.svg)](https://scikit-learn.org/)
 [![Optimization](https://img.shields.io/badge/Optimization-Multi--Strategy-orange.svg)](#)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Advanced Machine Learning & Optimization System for Terrain Peak Detection**
 
@@ -287,9 +286,7 @@ If you need to tune for different terrains:
 4. Push to branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Author & Contact
 
